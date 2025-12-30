@@ -11,8 +11,3 @@ PostgreSQL · SQLite · Docker · Postman · Gin (Go)
 
 ## Interests
 Backend engineering · Infrastructure · APIs · Concurrency · Systems programming
-
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TerZoro&theme=dark&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TerZoro&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerZoro&theme=dark&hide_border=true&layout=compact)
