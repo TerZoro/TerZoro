@@ -5,7 +5,8 @@ CS, Nazarbayev University. Backend & systems (Go).
 **Go** · **Swift / SwiftUI** · **Java** · **C / C++** · **Python** · **JavaScript** · **Assembly (MIPS)**
 
 ## What I work with
-PostgreSQL · SQLite · Docker · Postman · Gin (Go)  
+SQLite · PostgreSQL · Docker · Docker Compose · Postman  
+*Actively learning: WebSockets · Kafka · gRPC*
 *I prefer fundamentals: profiling, correctness, clean APIs.*
 
 ## Interests
